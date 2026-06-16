@@ -8,6 +8,7 @@
 ![CoreData](https://img.shields.io/badge/CoreData-Persistence-green.svg)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM%20%2B%20Router-purple.svg)
 ![Tests](https://img.shields.io/badge/Tests-Unit%20%26%20UI-success.svg)
+![CI](https://img.shields.io/badge/CI-GitHub%20Actions-black.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
 Personal Finance Tracker built with UIKit and Core Data.
