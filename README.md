@@ -122,6 +122,20 @@ AnalyticsServiceTests
 TransactionCoreDataServiceTests
 ```
 
+---
+
+## Continuous Integration
+
+GitHub Actions automatically performs:
+
+- Build Validation
+- Unit Test Execution
+- Artifact Upload
+
+UI Tests are available through a dedicated workflow to keep CI pipelines fast and reliable.
+
+---
+
 ## Getting Started
 
 ### Requirements
